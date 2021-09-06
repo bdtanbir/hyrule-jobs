@@ -6,9 +6,9 @@
         <h1>Hyrul Jobs</h1>
       </div>
       <div class="order">
-        <button @click="handleClick('title')">order by title</button>
-        <button @click="handleClick('salary')">order by salary</button>
-        <button @click="handleClick('location')">order by location</button>
+        <button @click="handleClick('title')">Order by Title</button>
+        <button @click="handleClick('salary')">Order by Salary</button>
+        <button @click="handleClick('location')">Order by Location</button>
       </div>
     </header>
     <JobsList :jobs="jobs" :order="order" />
