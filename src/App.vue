@@ -2,7 +2,7 @@
   <div class="app">
     <header>
       <div class="title">
-        <img src="./assets/heart.svg" alt="Heart" />
+        <img src="./assets/heart.svg" alt="Logo" />
         <h1>Hyrul Jobs</h1>
       </div>
       <div class="order">
